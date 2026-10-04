@@ -1,0 +1,7 @@
+com\mycompany\buku\controller\BukuController.class
+com\mycompany\buku\ADPLweek2.class
+com\mycompany\buku\model\Buku.class
+com\mycompany\buku\model\BukuModel.class
+com\mycompany\buku\view\BukuView.class
+com\mycompany\buku\Main.class
+com\mycompany\buku\view\BukuView$1.class
